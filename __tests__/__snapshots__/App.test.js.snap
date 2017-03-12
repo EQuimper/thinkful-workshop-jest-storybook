@@ -1,0 +1,40 @@
+exports[`<App /> create an basic snapshot 1`] = `
+<div
+  className="App">
+  <img
+    alt="logo"
+    className="App-logo"
+    src="logo.svg" />
+  <h2
+    className="dCMMWH">
+    Welcome to Thinkful
+  </h2>
+  <h2
+    className="nIfoE"
+    color="blue">
+    Welcome to React
+  </h2>
+  <div
+    className="eWbGRP">
+    <h2
+      className="bUfWaj"
+      color="red">
+      Welcome to React
+    </h2>
+  </div>
+  <div>
+    <li
+      className="idnyMJ">
+      todo1
+    </li>
+    <li
+      className="idnyMJ">
+      todo2
+    </li>
+    <li
+      className="idnyMJ">
+      todo3
+    </li>
+  </div>
+</div>
+`;
